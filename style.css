@@ -1,0 +1,65 @@
+html {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    width: 35%;
+}
+
+nav {
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+    width: 35%;
+}
+
+section {
+    background-color: rgb(255, 196, 0);
+    margin-top: 0;
+    float: left;
+    width: 17.5%;
+}
+
+article {
+    background-color: green;
+}
+
+aside {
+    background-color: blue;
+    float: left;
+    width: 17.5%;
+}
+
+footer {
+    background-color: purple;
+    clear:both;
+    width: 35%;
+}
+
+p {
+    color: white;
+    margin: 0;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.container {
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+
+#kappale1 {
+    margin: 10px;
+}
+
+#kappale2 {
+    margin: 10px;
+}
